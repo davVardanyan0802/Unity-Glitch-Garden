@@ -1,96 +1,85 @@
 fileFormatVersion: 2
-guid: f2eeb5cb5ae204f6bb601154a93f60dd
+guid: 14512d42ec5724dd5ae7252566124195
 TextureImporter:
   fileIDToRecycleName:
-    21300000: attacking_0
-    21300002: attacking_1
-    21300004: attacking_2
-    21300006: attacking_3
-    21300008: attacking_4
-    21300010: attacking_5
-    21300012: attacking_6
-    21300014: attacking_7
-    21300016: attacking_8
-    21300018: attacking_9
-    21300020: attacking_10
-    21300022: attacking_11
-    21300024: attacking_12
-    21300026: attacking_13
-    21300028: attacking_14
-    21300030: attacking_15
-    21300032: attacking_16
-    21300034: attacking_17
-    21300036: attacking_18
-    21300038: attacking_19
-    21300040: attacking_20
-    21300042: attacking_21
-    21300044: attacking_22
-    21300046: attacking_23
-    21300048: attacking_24
-    21300050: attacking_25
-    21300052: attacking_26
-    21300054: attacking_27
-    21300056: attacking_28
-    21300058: attacking_29
-    21300060: attacking_30
-    21300062: attacking_31
-    21300064: attacking_32
-    21300066: attacking_33
-    21300068: attacking_34
-    21300070: attacking_35
-    21300072: attacking_36
-    21300074: attacking_37
-    21300076: attacking_38
-    21300078: attacking_39
-    21300080: attacking_40
-    21300082: attacking_41
-    21300084: attacking_42
-    21300086: attacking_43
-    21300088: attacking_44
-    21300090: attacking_45
-    21300092: attacking_46
-    21300094: attacking_47
-    21300096: attacking_48
-    21300098: attacking_49
-    21300100: attacking_50
-    21300102: attacking_51
-    21300104: attacking_52
-    21300106: attacking_53
-    21300108: attacking_54
-    21300110: attacking_55
-    21300112: attacking_56
-    21300114: attacking_57
-    21300116: attacking_58
-    21300118: attacking_59
-    21300120: attacking_60
-    21300122: attacking_61
-    21300124: attacking_62
-    21300126: attacking_63
-    21300128: attacking_64
-    21300130: attacking_65
-    21300132: attacking_66
-    21300134: attacking_67
-    21300136: attacking_68
-    21300138: attacking_69
-    21300140: attacking_70
-    21300142: attacking_71
-    21300144: attacking_72
-    21300146: attacking_73
-    21300148: attacking_74
-    21300150: attacking_75
-    21300152: attacking_76
-    21300154: attacking_77
-    21300156: attacking_78
-    21300158: attacking_79
-    21300160: attacking_80
-    21300162: attacking_81
-    21300164: attacking_82
-    21300166: attacking_83
-    21300168: attacking_84
-    21300170: attacking_85
-    21300172: attacking_86
-    21300174: attacking_87
-    21300176: attacking_88
+    21300000: npc_cactus__x1_talk_png_1354833515_0
+    21300002: npc_cactus__x1_talk_png_1354833515_1
+    21300004: npc_cactus__x1_talk_png_1354833515_2
+    21300006: npc_cactus__x1_talk_png_1354833515_3
+    21300008: npc_cactus__x1_talk_png_1354833515_4
+    21300010: npc_cactus__x1_talk_png_1354833515_5
+    21300012: npc_cactus__x1_talk_png_1354833515_6
+    21300014: npc_cactus__x1_talk_png_1354833515_7
+    21300016: npc_cactus__x1_talk_png_1354833515_8
+    21300018: npc_cactus__x1_talk_png_1354833515_9
+    21300020: npc_cactus__x1_talk_png_1354833515_10
+    21300022: npc_cactus__x1_talk_png_1354833515_11
+    21300024: npc_cactus__x1_talk_png_1354833515_12
+    21300026: npc_cactus__x1_talk_png_1354833515_13
+    21300028: npc_cactus__x1_talk_png_1354833515_14
+    21300030: npc_cactus__x1_talk_png_1354833515_15
+    21300032: npc_cactus__x1_talk_png_1354833515_16
+    21300034: npc_cactus__x1_talk_png_1354833515_17
+    21300036: npc_cactus__x1_talk_png_1354833515_18
+    21300038: npc_cactus__x1_talk_png_1354833515_19
+    21300040: npc_cactus__x1_talk_png_1354833515_20
+    21300042: npc_cactus__x1_talk_png_1354833515_21
+    21300044: npc_cactus__x1_talk_png_1354833515_22
+    21300046: npc_cactus__x1_talk_png_1354833515_23
+    21300048: npc_cactus__x1_talk_png_1354833515_24
+    21300050: npc_cactus__x1_talk_png_1354833515_25
+    21300052: npc_cactus__x1_talk_png_1354833515_26
+    21300054: npc_cactus__x1_talk_png_1354833515_27
+    21300056: npc_cactus__x1_talk_png_1354833515_28
+    21300058: npc_cactus__x1_talk_png_1354833515_29
+    21300060: npc_cactus__x1_talk_png_1354833515_30
+    21300062: npc_cactus__x1_talk_png_1354833515_31
+    21300064: npc_cactus__x1_talk_png_1354833515_32
+    21300066: npc_cactus__x1_talk_png_1354833515_33
+    21300068: npc_cactus__x1_talk_png_1354833515_34
+    21300070: npc_cactus__x1_talk_png_1354833515_35
+    21300072: npc_cactus__x1_talk_png_1354833515_36
+    21300074: npc_cactus__x1_talk_png_1354833515_37
+    21300076: npc_cactus__x1_talk_png_1354833515_38
+    21300078: npc_cactus__x1_talk_png_1354833515_39
+    21300080: npc_cactus__x1_talk_png_1354833515_40
+    21300082: npc_cactus__x1_talk_png_1354833515_41
+    21300084: npc_cactus__x1_talk_png_1354833515_42
+    21300086: npc_cactus__x1_talk_png_1354833515_43
+    21300088: npc_cactus__x1_talk_png_1354833515_44
+    21300090: npc_cactus__x1_talk_png_1354833515_45
+    21300092: npc_cactus__x1_talk_png_1354833515_46
+    21300094: npc_cactus__x1_talk_png_1354833515_47
+    21300096: npc_cactus__x1_talk_png_1354833515_48
+    21300098: npc_cactus__x1_talk_png_1354833515_49
+    21300100: npc_cactus__x1_talk_png_1354833515_50
+    21300102: npc_cactus__x1_talk_png_1354833515_51
+    21300104: npc_cactus__x1_talk_png_1354833515_52
+    21300106: npc_cactus__x1_talk_png_1354833515_53
+    21300108: npc_cactus__x1_talk_png_1354833515_54
+    21300110: npc_cactus__x1_talk_png_1354833515_55
+    21300112: npc_cactus__x1_talk_png_1354833515_56
+    21300114: npc_cactus__x1_talk_png_1354833515_57
+    21300116: npc_cactus__x1_talk_png_1354833515_58
+    21300118: npc_cactus__x1_talk_png_1354833515_59
+    21300120: npc_cactus__x1_talk_png_1354833515_60
+    21300122: npc_cactus__x1_talk_png_1354833515_61
+    21300124: npc_cactus__x1_talk_png_1354833515_62
+    21300126: npc_cactus__x1_talk_png_1354833515_63
+    21300128: npc_cactus__x1_talk_png_1354833515_64
+    21300130: npc_cactus__x1_talk_png_1354833515_65
+    21300132: npc_cactus__x1_talk_png_1354833515_66
+    21300134: npc_cactus__x1_talk_png_1354833515_67
+    21300136: npc_cactus__x1_talk_png_1354833515_68
+    21300138: npc_cactus__x1_talk_png_1354833515_69
+    21300140: npc_cactus__x1_talk_png_1354833515_70
+    21300142: npc_cactus__x1_talk_png_1354833515_71
+    21300144: npc_cactus__x1_talk_png_1354833515_72
+    21300146: npc_cactus__x1_talk_png_1354833515_73
+    21300148: npc_cactus__x1_talk_png_1354833515_74
+    21300150: npc_cactus__x1_talk_png_1354833515_75
+    21300152: npc_cactus__x1_talk_png_1354833515_76
+    21300154: npc_cactus__x1_talk_png_1354833515_77
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -117,10 +106,10 @@ TextureImporter:
   cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 4096
+  maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: -1
     aniso: 16
     mipBias: -100
     wrapU: 1
@@ -149,7 +138,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -162,13 +151,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: attacking_0
+      name: npc_cactus__x1_talk_png_1354833515_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 930
-        width: 251
-        height: 186
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,19 +165,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4e5e7c7753f46a4fbe678e467568bfb
+      spriteID: 9343b276a5554f848b582d7ab35f37ea
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_1
+      name: npc_cactus__x1_talk_png_1354833515_1
       rect:
         serializedVersion: 2
-        x: 251
-        y: 930
-        width: 251
-        height: 186
+        x: 157
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,19 +185,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88d12c8acd30b944c948219266d988ee
+      spriteID: 1b057c8cb6dec154e813d13072e1422e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_2
+      name: npc_cactus__x1_talk_png_1354833515_2
       rect:
         serializedVersion: 2
-        x: 502
-        y: 930
-        width: 251
-        height: 186
+        x: 314
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,19 +205,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9113df01a17cd8d4da6aa83a5d70b254
+      spriteID: bb16d7442bf296e428b6e6e0b6b49f55
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_3
+      name: npc_cactus__x1_talk_png_1354833515_3
       rect:
         serializedVersion: 2
-        x: 753
-        y: 930
-        width: 251
-        height: 186
+        x: 471
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,19 +225,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7e1145eeeb8650647b05679f97731ae2
+      spriteID: 2046c4821f171f440b9b51c22a51e390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_4
+      name: npc_cactus__x1_talk_png_1354833515_4
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 930
-        width: 251
-        height: 186
+        x: 628
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,19 +245,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 00011f42b19831945965297df964d73f
+      spriteID: b7ab54122b703174894caf8ccc316816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_5
+      name: npc_cactus__x1_talk_png_1354833515_5
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 930
-        width: 251
-        height: 186
+        x: 785
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,199 +265,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a448fb0d144f40747aafa57ef0120d6c
+      spriteID: d06f1131ad0fc8c4ea67bf7de4120aa8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_6
-      rect:
-        serializedVersion: 2
-        x: 1506
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb8050974f74a2043b4cf566803e09cb
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_7
-      rect:
-        serializedVersion: 2
-        x: 1757
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2695e3974e4a394d86e3c7b4c07a15a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_8
-      rect:
-        serializedVersion: 2
-        x: 2008
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2eb89184b1d3864da38549a42d1a01c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_9
-      rect:
-        serializedVersion: 2
-        x: 2259
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 50f4def66b977a6418f15f97937a4e9d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_10
-      rect:
-        serializedVersion: 2
-        x: 2510
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 13ff9e71fed18b0418d072feca5cf520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_11
-      rect:
-        serializedVersion: 2
-        x: 2761
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fabf406089ecb10408e8cb0af3f1af05
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_12
-      rect:
-        serializedVersion: 2
-        x: 3012
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ea2a6616dfe7bc4e85bda5c37ad5994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_13
-      rect:
-        serializedVersion: 2
-        x: 3263
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f9b54238db9aba43a17e70fd7a577ba
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_14
-      rect:
-        serializedVersion: 2
-        x: 3514
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed6d0ed69c427eb4094aed086f0e6b99
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_15
+      name: npc_cactus__x1_talk_png_1354833515_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 744
-        width: 251
-        height: 186
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,19 +285,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0fa3ad6b2f449ef4485477e54073c038
+      spriteID: 491beadd5722bc344b198ff7d016d376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_16
+      name: npc_cactus__x1_talk_png_1354833515_7
       rect:
         serializedVersion: 2
-        x: 251
-        y: 744
-        width: 251
-        height: 186
+        x: 157
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,19 +305,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1c8fe0c0de15204aba551c18adb9a00
+      spriteID: 9a70a276ecfef954a91f037b452918fb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_17
+      name: npc_cactus__x1_talk_png_1354833515_8
       rect:
         serializedVersion: 2
-        x: 502
-        y: 744
-        width: 251
-        height: 186
+        x: 314
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,19 +325,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b74d31af24192d14fb183b86abd1bdc4
+      spriteID: f9f2251842cd10a41a85779ce92879c5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_18
+      name: npc_cactus__x1_talk_png_1354833515_9
       rect:
         serializedVersion: 2
-        x: 753
-        y: 744
-        width: 251
-        height: 186
+        x: 471
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -536,19 +345,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 98da70f16250f564da9905bd89215b9b
+      spriteID: 6b2899185cc5e994e86ce53210f81da9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_19
+      name: npc_cactus__x1_talk_png_1354833515_10
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 744
-        width: 251
-        height: 186
+        x: 628
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -556,19 +365,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e81dd8b1e3f47ce4598cefd680945309
+      spriteID: f770eac6c05253a49aa2956ecfc4b489
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_20
+      name: npc_cactus__x1_talk_png_1354833515_11
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 744
-        width: 251
-        height: 186
+        x: 785
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -576,199 +385,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65dd74788bf39904a8df5a0cb42e52a5
+      spriteID: 2cf6c6f94b52cfb44a51ac24d477e7fa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_21
-      rect:
-        serializedVersion: 2
-        x: 1506
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c123a75db7378b14c86b39fbfa2480b6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_22
-      rect:
-        serializedVersion: 2
-        x: 1757
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7d3b0aff9dcf614d8a2e9db9717ad84
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_23
-      rect:
-        serializedVersion: 2
-        x: 2008
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f809e81aecf8d0b4585f16d54476b1cb
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_24
-      rect:
-        serializedVersion: 2
-        x: 2259
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e537dc2b7d003454c999a0fe5fd47316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_25
-      rect:
-        serializedVersion: 2
-        x: 2510
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3bc6d1b139dc67d4a85472d80f34a716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_26
-      rect:
-        serializedVersion: 2
-        x: 2761
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61a71f508c2ffd843a746593e80c6704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_27
-      rect:
-        serializedVersion: 2
-        x: 3012
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d7de5da6585e56d48b94ec24f77842d0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_28
-      rect:
-        serializedVersion: 2
-        x: 3263
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99d444267e5439d40a01c22323e2eac0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_29
-      rect:
-        serializedVersion: 2
-        x: 3514
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1adaf3efdd9e1414c9abad9e3618cda0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_30
+      name: npc_cactus__x1_talk_png_1354833515_12
       rect:
         serializedVersion: 2
         x: 0
-        y: 558
-        width: 251
-        height: 186
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -776,19 +405,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb63056055b1d86448fb45cb1b6fc0e5
+      spriteID: f5e4b3d5d685f0247b18aa997dc29057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_31
+      name: npc_cactus__x1_talk_png_1354833515_13
       rect:
         serializedVersion: 2
-        x: 251
-        y: 558
-        width: 251
-        height: 186
+        x: 157
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -796,19 +425,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc0e227f69772af4ea0276ad79fc0f79
+      spriteID: 5962c69620b110745b102f68a83c8d8c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_32
+      name: npc_cactus__x1_talk_png_1354833515_14
       rect:
         serializedVersion: 2
-        x: 502
-        y: 558
-        width: 251
-        height: 186
+        x: 314
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -816,19 +445,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c6498b52b67ac134a9163e0f6275b2bc
+      spriteID: 05b16773dda82ee42941193a8b7150b9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_33
+      name: npc_cactus__x1_talk_png_1354833515_15
       rect:
         serializedVersion: 2
-        x: 753
-        y: 558
-        width: 251
-        height: 186
+        x: 471
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -836,19 +465,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d78cadbf583cf847a438ade189657f5
+      spriteID: 124e5fcafdbc5e94dab25da75fc12076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_34
+      name: npc_cactus__x1_talk_png_1354833515_16
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 558
-        width: 251
-        height: 186
+        x: 628
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -856,19 +485,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a6b8605d9c63174e864d4215161d9fb
+      spriteID: ccb953fa72d793f4c928a21c1a9bd356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_35
+      name: npc_cactus__x1_talk_png_1354833515_17
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 558
-        width: 251
-        height: 186
+        x: 785
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -876,199 +505,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 52dba78d44059dd4aabac2003385cb5b
+      spriteID: fc3d6b65443cc834eb02c0e10d3af36c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_36
-      rect:
-        serializedVersion: 2
-        x: 1506
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba9fd42428fc5da49958383cf20f7f58
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_37
-      rect:
-        serializedVersion: 2
-        x: 1757
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a35baf0a0f06584891348e670aedc56
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_38
-      rect:
-        serializedVersion: 2
-        x: 2008
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 269c2cd10fd59014db2aad457071a8fb
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_39
-      rect:
-        serializedVersion: 2
-        x: 2259
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0040cf1c4cac5b546ad47d95dbaea688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_40
-      rect:
-        serializedVersion: 2
-        x: 2510
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9730264fd12c5d84cbeccc1bfbe41871
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_41
-      rect:
-        serializedVersion: 2
-        x: 2761
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a085ff0b469d6584587391066d9a10c1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_42
-      rect:
-        serializedVersion: 2
-        x: 3012
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89e53c756db4e7f4dacf34f7aa8fd5a8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_43
-      rect:
-        serializedVersion: 2
-        x: 3263
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 690d0b0607c651540a8992cc1ecb03fd
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_44
-      rect:
-        serializedVersion: 2
-        x: 3514
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3f7f13f81e9cc8438a1554dc25b1c91
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_45
+      name: npc_cactus__x1_talk_png_1354833515_18
       rect:
         serializedVersion: 2
         x: 0
-        y: 372
-        width: 251
-        height: 186
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1076,19 +525,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b71b6f909573c3429e0e5f81a60ceb3
+      spriteID: c49c7f25cf661ab49bffd015d640a08e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_46
+      name: npc_cactus__x1_talk_png_1354833515_19
       rect:
         serializedVersion: 2
-        x: 251
-        y: 372
-        width: 251
-        height: 186
+        x: 157
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1096,19 +545,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 379eb0c21aeb8a24ab745819eba77d95
+      spriteID: bb53abd1d07f8ff42bbe87ad033b30e8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_47
+      name: npc_cactus__x1_talk_png_1354833515_20
       rect:
         serializedVersion: 2
-        x: 502
-        y: 372
-        width: 251
-        height: 186
+        x: 314
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1116,19 +565,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35e41b0fdb9801e41af3e947f8bfca5e
+      spriteID: 852c0cb8a64f50c44ab83033c2a22885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_48
+      name: npc_cactus__x1_talk_png_1354833515_21
       rect:
         serializedVersion: 2
-        x: 753
-        y: 372
-        width: 251
-        height: 186
+        x: 471
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1136,19 +585,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ef31bfaaa276b64092585012f13b90f
+      spriteID: 95024ae6585fa344aba924faba855378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_49
+      name: npc_cactus__x1_talk_png_1354833515_22
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 372
-        width: 251
-        height: 186
+        x: 628
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1156,19 +605,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7853807ee280e84c8d027e31d1e5c7f
+      spriteID: 1693a2b27345fa944b51d76a5ead2637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_50
+      name: npc_cactus__x1_talk_png_1354833515_23
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 372
-        width: 251
-        height: 186
+        x: 785
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1176,199 +625,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a513b20b01f68c24ebf23dff8cce2e89
+      spriteID: 9324dbc2b10bc3b40bf9c3f2af912024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_51
-      rect:
-        serializedVersion: 2
-        x: 1506
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 277ad33d4e8b589499220b5d115b16a6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_52
-      rect:
-        serializedVersion: 2
-        x: 1757
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9f02dbe6e8cea64ba7115c62d867a9e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_53
-      rect:
-        serializedVersion: 2
-        x: 2008
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 065a1e91167b4064f8bb776915ae48d6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_54
-      rect:
-        serializedVersion: 2
-        x: 2259
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79764acb04bbca0479d8dfb06854908f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_55
-      rect:
-        serializedVersion: 2
-        x: 2510
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 460d17ac2fe0f3940880aad056d05408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_56
-      rect:
-        serializedVersion: 2
-        x: 2761
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4dc6272886f6f90479ab4f5eba28220d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_57
-      rect:
-        serializedVersion: 2
-        x: 3012
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 235aa1a22e3915c42a4fe50617140766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_58
-      rect:
-        serializedVersion: 2
-        x: 3263
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 155eea0a0dd8154429e1e80c18fd106e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_59
-      rect:
-        serializedVersion: 2
-        x: 3514
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ba759a82bedc504aa34fb75eb624c8a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_60
+      name: npc_cactus__x1_talk_png_1354833515_24
       rect:
         serializedVersion: 2
         x: 0
-        y: 186
-        width: 251
-        height: 186
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1376,19 +645,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 179b3b271feea8c44a5f57c6e1b106f6
+      spriteID: 3f58a09485cc50c45b552767f3ec7ddc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_61
+      name: npc_cactus__x1_talk_png_1354833515_25
       rect:
         serializedVersion: 2
-        x: 251
-        y: 186
-        width: 251
-        height: 186
+        x: 157
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1396,19 +665,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 828f608478b46ef4c917a6e14d0508f6
+      spriteID: d6ebdb1e515e7db44b2035930f9c51a8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_62
+      name: npc_cactus__x1_talk_png_1354833515_26
       rect:
         serializedVersion: 2
-        x: 502
-        y: 186
-        width: 251
-        height: 186
+        x: 314
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1416,19 +685,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c6e6bf8fcbd18f46a47a4279d63ca05
+      spriteID: 6f08aa3038d0718418536873312c9349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_63
+      name: npc_cactus__x1_talk_png_1354833515_27
       rect:
         serializedVersion: 2
-        x: 753
-        y: 186
-        width: 251
-        height: 186
+        x: 471
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1436,19 +705,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5722ca3688c22ea4392c1b2b6aa1e58e
+      spriteID: 69063055c9fa7e441ba3c82b00d62156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_64
+      name: npc_cactus__x1_talk_png_1354833515_28
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 186
-        width: 251
-        height: 186
+        x: 628
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1456,19 +725,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 75a3254a721987b47b1bfc435565a52e
+      spriteID: 706f3048bb8172945baf1893fdeb38ce
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_65
+      name: npc_cactus__x1_talk_png_1354833515_29
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 186
-        width: 251
-        height: 186
+        x: 785
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1476,19 +745,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e3d1b63cec58cdb40b628fa99bd46b69
+      spriteID: 663528c752f64674ea0613d72fd2918e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_66
+      name: npc_cactus__x1_talk_png_1354833515_30
       rect:
         serializedVersion: 2
-        x: 1506
-        y: 186
-        width: 251
-        height: 186
+        x: 0
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1496,19 +765,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d488b82082aec5449fcaaa9ab2a8e33
+      spriteID: 92b20f3febfa1824c97912a98639e422
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_67
+      name: npc_cactus__x1_talk_png_1354833515_31
       rect:
         serializedVersion: 2
-        x: 1757
-        y: 186
-        width: 251
-        height: 186
+        x: 157
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1516,19 +785,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9e294e7ff3c139b419b8a64c174053aa
+      spriteID: 92b60f525ef6c584e9cc197edbe65840
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_68
+      name: npc_cactus__x1_talk_png_1354833515_32
       rect:
         serializedVersion: 2
-        x: 2008
-        y: 186
-        width: 251
-        height: 186
+        x: 314
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1536,19 +805,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5935cb1170896e44daddef9050596690
+      spriteID: 3276c4c2ca4a86b4293f53174b7111c3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_69
+      name: npc_cactus__x1_talk_png_1354833515_33
       rect:
         serializedVersion: 2
-        x: 2259
-        y: 186
-        width: 251
-        height: 186
+        x: 471
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1556,19 +825,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13570a30c1dad94458f9987250431f5b
+      spriteID: a7e06ceb4029f454496fdfaa488f6fab
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_70
+      name: npc_cactus__x1_talk_png_1354833515_34
       rect:
         serializedVersion: 2
-        x: 2510
-        y: 186
-        width: 251
-        height: 186
+        x: 628
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1576,19 +845,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e834a115c29a5b4c9a06d01305fcc57
+      spriteID: b3d3f85b4d7d254418ad101e53ba67f9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_71
+      name: npc_cactus__x1_talk_png_1354833515_35
       rect:
         serializedVersion: 2
-        x: 2761
-        y: 186
-        width: 251
-        height: 186
+        x: 785
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1596,19 +865,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27c72626f8ba9164d85a83b17a8f31b8
+      spriteID: 9ffbd18375515ba4ba5776b71bd4894f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_72
+      name: npc_cactus__x1_talk_png_1354833515_36
       rect:
         serializedVersion: 2
-        x: 3012
-        y: 186
-        width: 251
-        height: 186
+        x: 0
+        y: 756
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1616,19 +885,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5efe03c9cf1b68e429d2ddaf7c587a80
+      spriteID: 459694ccd6f2290419d5c6ddff2d9cb2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_73
+      name: npc_cactus__x1_talk_png_1354833515_37
       rect:
         serializedVersion: 2
-        x: 3263
-        y: 186
-        width: 251
-        height: 186
+        x: 157
+        y: 756
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1636,19 +905,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c81766705f07f634fa83fa40715226c8
+      spriteID: 6c5e0ebff3e52dd4b8a24b2a036418d6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_74
+      name: npc_cactus__x1_talk_png_1354833515_38
       rect:
         serializedVersion: 2
-        x: 3514
-        y: 186
-        width: 251
-        height: 186
+        x: 314
+        y: 756
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1656,19 +925,679 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13767a8a5b3911042b436d23019055a7
+      spriteID: 895e81a6db469d841b7f8bb92e35c831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_75
+      name: npc_cactus__x1_talk_png_1354833515_39
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf665359f65234482a1b0b1678e18f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_40
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b9b1a5547b801439469e193f33b304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_41
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f24024a58d4fc428e5d4758ea4681b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c23ea0d3adeb444596929984d517aab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca2df8688ca8dd4ebd5470c132b2a7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669d195364afbb6408499aeda6f95975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_45
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c021457a1eef7d64eb020e559c6e348e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_46
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2792e27acbd67264cac04555a514e57a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_47
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144d425efd7d35e479fab73593e70930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61190a48debe3bd43a03f41c093229f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f0ff96abef0064296087b582b14740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_50
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73478ab30b0cdbd4ca1170ff45103a7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_51
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e602c3228d32e44bb18180962ad413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_52
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458ebf52d952a9f4f95a46474d69c134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_53
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4685b605209f91c4293158859c710d2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfb521630a1d0249af161224d870735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648ce2f4f5c31df409cfaeab87f3671b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3336d45938729439f12ac207d94c3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8488f5119481ee048a201bddb13e64d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_58
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537bef122493443459db3a89bda87bb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_59
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a02ce7357a29ca4da3f30a583f3db6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d35051d600df340a2b52449dcf3d65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49a8f42bc4b12146bee7d0274a5bfc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eedcfd6f6c1444e9d9584f7bf3ce2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a29fc054ee7a64fb77ebe19ab328c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_64
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1346bf7b70ac8fa4e841b39e003214e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_65
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40200357e9629304fa0e0051e7103da5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb74dcd13748c248a59abde257e3623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_67
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afd4b31960a78b44938f9c577f4ea6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_68
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d8b2289fd882c4d9f03aaa028f33ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_69
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549279e6e067d7942a303555fe51e8e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_70
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ce8ff791cb3b2428866bdf8610f7b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_71
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d669439b5cab5ee41af3d6ccd884c8d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_72
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 251
-        height: 186
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1676,19 +1605,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35568ef404889bd4ea130fff37c1d022
+      spriteID: a4854311a5eb48c45b7669db6cda6e44
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_76
+      name: npc_cactus__x1_talk_png_1354833515_73
       rect:
         serializedVersion: 2
-        x: 251
+        x: 157
         y: 0
-        width: 251
-        height: 186
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1696,19 +1625,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 85536f4d804269246976443026ac390b
+      spriteID: a4a1b1c92c0b4ed429ccfc863bcb733a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_77
+      name: npc_cactus__x1_talk_png_1354833515_74
       rect:
         serializedVersion: 2
-        x: 502
+        x: 314
         y: 0
-        width: 251
-        height: 186
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1716,19 +1645,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d983e4a4a9306e9408d150ed8ae8e32f
+      spriteID: 1801c16a9ce7c644eafa4f0f07f1c112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_78
+      name: npc_cactus__x1_talk_png_1354833515_75
       rect:
         serializedVersion: 2
-        x: 753
+        x: 471
         y: 0
-        width: 251
-        height: 186
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1736,19 +1665,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 452b032b505903b44867d41c178c2fbf
+      spriteID: 372e8ed202b7c6348a0f5f80ff7540fc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_79
+      name: npc_cactus__x1_talk_png_1354833515_76
       rect:
         serializedVersion: 2
-        x: 1004
+        x: 628
         y: 0
-        width: 251
-        height: 186
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1756,19 +1685,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 49aad32a3aa5f46469a7b5aea4b518dc
+      spriteID: 69962694c21605343aad70ab6de74bae
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attacking_80
+      name: npc_cactus__x1_talk_png_1354833515_77
       rect:
         serializedVersion: 2
-        x: 1255
+        x: 785
         y: 0
-        width: 251
-        height: 186
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1776,167 +1705,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 630b4d4ec5b96144db4afcdf38a963ba
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_81
-      rect:
-        serializedVersion: 2
-        x: 1506
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d91ee50d54a9184f99877c095427bff
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_82
-      rect:
-        serializedVersion: 2
-        x: 1757
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 614443c852101134abcf83563ffd28cf
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_83
-      rect:
-        serializedVersion: 2
-        x: 2008
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d88d89788ebb70e43a60d62f0fb4d5f6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_84
-      rect:
-        serializedVersion: 2
-        x: 2259
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9660139b4a2eac243b60eeab238b9fc4
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_85
-      rect:
-        serializedVersion: 2
-        x: 2510
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e1bc3cb619f3704caf27930f2a56f63
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_86
-      rect:
-        serializedVersion: 2
-        x: 2761
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94e4080ac9b74c34196c661859b40130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_87
-      rect:
-        serializedVersion: 2
-        x: 3012
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff22a0f8a7a516e4fa9e05a1744ddf19
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: attacking_88
-      rect:
-        serializedVersion: 2
-        x: 3263
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89455390b82471d4f9bd3d927a503626
+      spriteID: 8943cd489b6891447a5f4357eaba1eb5
       vertices: []
       indices: 
       edges: []
